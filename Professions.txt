@@ -1,0 +1,121 @@
+Armourer 	
+Astrologer	
+Bag-maker	
+Baker	
+Barber-Surgeon	
+Basket-maker	
+Belt-maker	
+Blacksmith
+Gunsmith
+Armorsmith
+Brightsmith		
+Brewer		
+Bridle-maker	
+Embroiderer	
+Broom-maker	
+Butcher			
+Carpenter	
+Cartwright	
+Chalk cutter	
+Chandler	
+Cheese-maker	
+Clerk	
+Cobbler	
+Cook	
+Cooper	
+Dog breeder		
+Drunkard	
+Dyer	
+Farrier	
+Felt-maker
+Fisherman	
+Fletcher		
+Gambler	
+Glassblower	
+Goatherd		
+Gravedigger	
+Hunter	
+Jailer	
+Jeweler	
+Leatherworker		
+Mason	
+Midwife	
+Miller	
+Miner	
+Minstrel	
+Actor		
+Pack Handler	
+Painter		
+Parchment maker		
+Porter	
+Potter	
+Poultry-keeper	
+Prostitute		
+Rat Catcher	
+Rope-maker	
+Scullion	
+Sculptor
+Servant (Domestic)	
+Servant (Military)	
+Shepherd	
+Shipwright	
+Stonecutter	
+Swineherd
+Slave	
+Tailor	
+Tanner	
+Thatcher		
+Weaponsmith 
+Wet Nurse	
+Woodcutter	
+Sheep Herder	
+Alchemist	
+Apothecary	
+Architect	
+Banker	
+Bookbinder	
+Bureaucrat		
+Clock-maker	
+Engineer
+Tinkerer	
+Falconer	
+Goldsmith	
+Herbalist	
+Illustrator		
+Locksmith	
+Poet	
+Sailor	
+Storyteller	
+Tax Collector
+Soldier
+Military Officer
+Town Gaurd
+Militiaman
+Bounty Hunter
+Assassin
+Surveyor
+Musketman
+Gunslinger
+Doctor
+Nurse
+Cart Driver
+Farmer
+Knight
+Mercenary
+Bowman
+Boyer
+Fletcher
+Hermit
+Beggar
+Barmaid
+Inn Keeper
+Bartender
+Barback
+Thug
+Thief
+Fence
+Killer
+Cartjacker
+Pirate
+Bandit
+Highwayman
